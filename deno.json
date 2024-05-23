@@ -1,0 +1,6 @@
+{
+  "tasks": {
+    "cache": "deno cache src/**/*.ts",
+    "check": "deno check src/**/*.ts"
+  }
+}
